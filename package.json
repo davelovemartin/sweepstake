@@ -6,9 +6,11 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-rainbow-components": "^0.9.0",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "source-map-explorer": "^1.7.0"
   },
   "scripts": {
+    "analyse": "source-map-explorer build/static/js/main.*",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
