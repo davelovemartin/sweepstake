@@ -1,0 +1,77 @@
+// border-radius-sizes
+$border-radius-1: 0.875rem;
+$border-radius-2: 12rem;
+$border-radius-3: 0.4rem;
+
+// brand colors
+$color-brand: #01b6f5;
+$color-brand-active: #009acf;
+$color-brand-light: rgba(0, 184, 245, 0.2);
+$color-brand-2: #07b0ea;
+
+// success colors
+$color-success: #1de9b6;
+$color-success-active: #1ad1a3;
+$color-success-light: rgba(29, 233, 182, 0.2);
+
+// destructive colors
+$color-error: #fe4849;
+$color-error-active: #ea4243;
+
+// gray colors
+$color-gray-1: #f4f6f9;
+$color-gray-2: #e3e5ed;
+$color-gray-3: #a4a7b5;
+$color-gray-4: #576574;
+$color-gray-transparent-1: rgba(244, 246, 249, 0.4);
+$color-gray-transparent-2: rgba(82, 95, 127, 0.3);
+
+// text colors
+$color-dark-1: #061c3f;
+
+// yellow colors
+$color-yellow-1: #fc0;
+
+// purple colors
+$color-purple: #663398;
+
+// font-sizes-heading
+$font-size-heading-small: 1rem;
+$font-size-heading-medium: 1.25rem;
+$font-size-heading-large: 1.5rem;
+$font-size-heading-x-large: 2rem;
+
+// font-sizes-text-body
+$font-size-text-x-small: 0.625rem;
+$font-size-text-small: 0.75rem;
+$font-size-text-medium: 0.875rem;
+$font-size-text-large: 1rem;
+
+// sizes-margins
+$margin-xx-small: 0.25rem;
+$margin-x-small: 0.5rem;
+$margin-small: 0.75rem;
+$margin-medium: 1rem;
+$margin-large: 1.5rem;
+$margin-x-large: 2rem;
+$margin-xx-large: 3rem;
+
+// sizes-margins
+$padding-xx-small: 0.25rem;
+$padding-x-small: 0.5rem;
+$padding-small: 0.75rem;
+$padding-medium: 1rem;
+$padding-large: 1.5rem;
+$padding-x-large: 2rem;
+$padding-xx-large: 3rem;
+
+// shadows
+$shadow-outline: 0 0 2px $color-brand;
+$shadow-outline-2: 0 0 8px $color-brand;
+$shadow-error: 0 0 2px $color-error;
+$shadow-1: 0 0 2px 0 $color-gray-3;
+$shadow-2: 0 2px 4px 0 $color-gray-2;
+$shadow-3: 0 0 1px 0 $color-gray-3;
+$shadow-4: 0 1px 2px 0 $color-gray-2;
+$shadow-5: 0 0 3px $color-gray-1;
+$shadow-6: 0 2px 12px 0 $color-gray-2;
